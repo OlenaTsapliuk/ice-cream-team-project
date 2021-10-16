@@ -1,24 +1,24 @@
 {
-  "name": "icecream-project",
+  "name": "ice-cream-team-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Anurov-Prihodko.github.io/icecream-project",
+  "homepage": "https://OlenaTsapliuk.github.io/ice-cream-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /icecream-project/",
+    "predeploy": "npm run build -- --public-url /ice-cream-team-project/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/icecream-project.git"
+    "url": "git+https://github.com/goitacademy/ice-cream-team-project.git"
   },
   "keywords": [],
   "author": "Olekciiy Anurov-Prihodko <amyr.prihodko2akk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/icecream-project/issues"
+    "url": "https://github.com/goitacademy/ice-cream-team-project/issues"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
